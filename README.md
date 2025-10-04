@@ -15,6 +15,9 @@ A simple and clean iOS profile application built with Swift.
 - Smooth animations and transitions
 - Responsive design for various iOS devices
 
+## Demo
+![Demo](https://github.com/ShaquilleNeil/IOS_simple_profile_1/blob/main/demo.png)
+
 ## Requirements
 
 - iOS 14.0+
