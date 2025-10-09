@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
 ![License](https://img.shields.io/badge/License-Copyright-red)
 
-A simple and clean iOS profile application built with Swift.
+A simple and clean iOS profile application mock up built with Swift.
 
 ## Features
 
